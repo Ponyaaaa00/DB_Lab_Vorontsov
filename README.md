@@ -13,4 +13,6 @@
 ![ER](2.png)
 
 ### Реляционная схема
+![1](https://github.com/user-attachments/assets/9b92e03d-7795-4060-960e-f83bd9c637ea)
+
 ![Relational](1.png)
